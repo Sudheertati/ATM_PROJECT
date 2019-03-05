@@ -1,0 +1,3 @@
+by using git checkout branch name .command we can change the branch in the repo.
+
+By usinng -b command we can create the new branch in the repro
