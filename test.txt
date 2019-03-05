@@ -1,0 +1,2 @@
+pull request :-It is used to get files from the git repo to present working dir.
+This pull request followed by fetch and merge.this means that the pull request has been taken by using two commands.
